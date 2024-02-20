@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Kumar</h1>
 <h3 align="center">Creator,Explorer,Technology enthusiast from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshkun&label=Profile%20views&color=0e75b6&style=flat" alt="deveshkun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshkun&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/108153472?s=400&u=0370ea0c246891326fcb913c029ec9cabd2b036a&v=4)" alt="deveshkun" /> </p>
 
 - 🌱 I’m currently learning **Machine learning and it's representation on web using Front-end,Back-end frameworks 🤖**
 
